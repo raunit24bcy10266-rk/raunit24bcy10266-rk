@@ -1,150 +1,60 @@
-<h1 align="center">Raunit Kumar Singh</h1>
+<h1 align="center">Hi, I'm Raunit Kumar Singh 👋</h1>
 
 <p align="center">
-  <strong>Cybersecurity Enthusiast • Threat Intelligence Researcher • Backend Developer</strong>
-</p>
-
-<p align="center">
-  B.Tech CSE (Cybersecurity & Digital Forensics) @ VIT Bhopal University
+Cybersecurity Enthusiast | Threat Intelligence | Backend Development
 </p>
 
 ---
 
-## About Me
+### About Me
 
-I am a Computer Science undergraduate specializing in Cybersecurity and Digital Forensics, driven by a deep interest in securing digital ecosystems and building impactful technology solutions.
+🎓 B.Tech CSE (Cybersecurity & Digital Forensics) @ VIT Bhopal University
 
-My primary areas of focus include threat intelligence, malware analysis, backend development, digital forensics, and security automation. I enjoy transforming complex security concepts into practical applications that address real-world challenges.
+🔐 Passionate about Cybersecurity, Threat Intelligence and Secure Software Development
 
-Through continuous learning and hands-on project development, I strive to strengthen my expertise in cybersecurity while contributing to innovative and security-focused technologies.
-
----
-
-## Areas of Interest
-
-- Cybersecurity
-- Threat Intelligence
-- Malware Analysis
-- Digital Forensics
-- Security Operations (SOC)
-- Backend Engineering
-- Network Security
-- Open-Source Development
+🌱 Currently exploring Malware Analysis, Threat Intelligence and Backend Engineering
 
 ---
 
-## Technical Skills
+### Tech Stack
 
-### Languages
-- Python
-- C++
-- SQL
+**Languages:** Python, C++, SQL
 
-### Web & Backend Technologies
-- FastAPI
-- Flask
-- HTML
-- CSS
+**Backend:** FastAPI, Flask
 
-### Databases
-- MySQL
-- SQLite
+**Database:** MySQL, SQLite
 
-### Tools & Platforms
-- Git
-- GitHub
-- Linux
-- Postman
-- Canva
-
-### Cybersecurity Domains
-- Threat Intelligence
-- Malware Analysis
-- IOC Extraction
-- Security Monitoring
-- Risk Assessment
-- Network Fundamentals
+**Tools:** Git, GitHub, Linux, Postman
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-### Threat Intelligence Aggregator
+🚀 **Threat Intelligence Aggregator**  
+Aggregates, correlates and visualizes threat intelligence feeds.
 
-A centralized threat intelligence platform designed to collect, normalize, correlate, and visualize indicators from multiple intelligence feeds.
+🚀 **PDF Malware Analysis Toolkit**  
+Static PDF analysis using IOC extraction, YARA scanning and risk assessment.
 
-#### Key Features
-- Feed Aggregation & Normalization
-- IOC Correlation Engine
-- Live Dashboard Analytics
-- Blocklist Management
-- Security-Centric Reporting
+🚀 **Library Management System**  
+Full-stack application for managing books, members and reports.
 
 ---
 
-### PDF Malware Analysis Toolkit
+### Currently Working On
 
-A cybersecurity toolkit developed for static PDF analysis, enabling metadata inspection, indicator extraction, YARA-based detection, and automated risk assessment.
-
-#### Key Features
-- Metadata Analysis
-- Hash Generation
-- IOC Extraction
-- YARA Rule Integration
-- Automated Threat Reporting
+- Cybersecurity Projects
+- Backend Development
+- Open Source Contributions
 
 ---
 
-### Library Management System
+### Connect With Me
 
-A full-stack library automation solution that streamlines catalog management, member records, issue-return workflows, and report generation.
+📧 raunitksingh2024@gmail.com
 
-#### Key Features
-- Book Inventory Management
-- Member Management
-- Issue & Return Tracking
-- Report Generation
-- Administrative Dashboard
+💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/raunit-kumar-singh-250852323)
 
 ---
 
-## Current Focus
-
-- Advancing Backend Development Skills
-- Exploring Threat Intelligence Workflows
-- Developing Security-Focused Open-Source Projects
-- Preparing for Cybersecurity Internships
-- Research in Cybersecurity & Digital Forensics
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raunit24bcy10266-rk&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunit24bcy10266-rk&layout=compact&hide_border=true" />
-</p>
-
----
-
-## Professional Values
-
-- Continuous Learning
-- Analytical Thinking
-- Security-First Mindset
-- Problem Solving
-- Collaboration & Leadership
-
----
-
-## Connect With Me
-
-📧 Email: raunitksingh2024@gmail.com
-
-💼 LinkedIn: Your LinkedIn Profile Link
-
-🌐 Portfolio: Coming Soon
-
----
-
-> *"The best defense begins with understanding the threat."*
+*"Securing systems through knowledge, analysis and continuous learning."*
